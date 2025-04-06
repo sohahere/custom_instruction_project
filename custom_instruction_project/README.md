@@ -126,7 +126,7 @@ python custom_instruction.py
 
 🌍 GitHub Link (Where the Magic Lives)
 
-👉 https://github.com/YourUsername/custom_instruction_project
+👉 https://github.com/sohahere/custom_instruction_project
 
 🙌 Thank You for Checking It Out!
 
